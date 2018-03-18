@@ -39,7 +39,7 @@ namespace Design_Patterns
             this.Renderer = renderer;
         }
 
-        public abstract void Draw();
+        public abstract void Draw();    
 
     }
 
